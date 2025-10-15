@@ -1,12 +1,1 @@
-{
-  "data": [
-    "rayannnnnnn",
-    "jfirjdjd",
-   "kggkfk",
-   "jttikt",
-   "tjtijti",
-   "tktkkfjf",
- "gjggkjg",
-"gkgkgkkgjgjg",
-    ]
-}
+{  "data": [    "rayannnnnnn",    "kapten012",   "kggkfk",   "jttikt",   "tjtijti",   "kentoo", "afaq76","ayantemp",    ]}
