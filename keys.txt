@@ -1,12 +1,5 @@
-# ==========================================
-# VORTEX SCRIPT KEY DATABASE
-# Format: KEY|YYYY-MM-DD
-# ==========================================
-
-# Maintenance Mode ပိတ်လိုပါက အောက်ပါစာကြောင်းရှေ့တွင် # ထည့်ပါ (ဖွင့်လိုပါက # ဖြုတ်ပါ)
-# MAINTENANCE = TRUE
-
-# --- VIP & TEST KEYS ---
-VORTEX-VIP-9999|2099-12-31
-BABYNOOB-ADMIN|2099-12-31
-TEST-KEY-2026|2026-12-31
+VORTEX-VIP-9999
+BABYNOOB-VIP-2026
+MY_CUSTOM_KEY_123
+VIP_MEMBER_PASS
+ANOTHER_KEY_777
