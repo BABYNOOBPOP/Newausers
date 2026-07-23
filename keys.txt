@@ -1,6 +1,12 @@
-ON
-1.0
-FALSE
-VORTEX_FREE_123|2027-12-31
-VORTEX_PRO_456|2025-12-31
-MY_SECRET_KEY_789|2025-12-31
+# ==========================================
+# VORTEX SCRIPT KEY DATABASE
+# Format: KEY|YYYY-MM-DD
+# ==========================================
+
+# Maintenance Mode ပိတ်လိုပါက အောက်ပါစာကြောင်းရှေ့တွင် # ထည့်ပါ (ဖွင့်လိုပါက # ဖြုတ်ပါ)
+# MAINTENANCE = TRUE
+
+# --- VIP & TEST KEYS ---
+VORTEX-VIP-9999|2099-12-31
+BABYNOOB-ADMIN|2099-12-31
+TEST-KEY-2026|2026-12-31
