@@ -1,20 +1,8 @@
 {
-  "X91PRZXB6MST": {
-    "expiry": "2026-08-08T12:26:52.267683",
+  "86M122BDDGRJ": {
+    "expiry": "2026-09-06T13:53:44.568608",
     "active": true,
     "device": null,
-    "created": "2026-08-07T12:26:52.267760"
-  },
-  "1H9NMJVNEY07": {
-    "expiry": "2026-08-08T12:28:16.975981",
-    "active": true,
-    "device": null,
-    "created": "2026-08-07T12:28:16.976194"
-  },
-  "2O0K6UN7CWWL": {
-    "expiry": "2026-08-08T12:44:11.682799",
-    "active": true,
-    "device": null,
-    "created": "2026-08-07T12:44:11.682993"
+    "created": "2026-08-07T13:53:44.568677"
   }
 }
